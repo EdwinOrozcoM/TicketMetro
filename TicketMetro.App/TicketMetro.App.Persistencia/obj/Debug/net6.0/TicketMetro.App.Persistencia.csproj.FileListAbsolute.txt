@@ -1,0 +1,17 @@
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Persistencia\obj\Debug\net6.0\TicketMetro.App.Persistencia.csproj.AssemblyReference.cache
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Persistencia\obj\Debug\net6.0\TicketMetro.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Persistencia\obj\Debug\net6.0\TicketMetro.App.Persistencia.AssemblyInfoInputs.cache
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Persistencia\obj\Debug\net6.0\TicketMetro.App.Persistencia.AssemblyInfo.cs
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Persistencia\obj\Debug\net6.0\TicketMetro.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Persistencia\bin\Debug\net6.0\TicketMetro.App.Persistencia.deps.json
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Persistencia\bin\Debug\net6.0\TicketMetro.App.Persistencia.runtimeconfig.json
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Persistencia\bin\Debug\net6.0\TicketMetro.App.Persistencia.dll
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Persistencia\bin\Debug\net6.0\TicketMetro.App.Persistencia.pdb
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Persistencia\bin\Debug\net6.0\TicketMetro.App.Dominio.dll
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Persistencia\bin\Debug\net6.0\TicketMetro.App.Dominio.pdb
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Persistencia\obj\Debug\net6.0\TicketMetro.App.Persistencia.csproj.CopyComplete
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Persistencia\obj\Debug\net6.0\TicketMetro.App.Persistencia.dll
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Persistencia\obj\Debug\net6.0\refint\TicketMetro.App.Persistencia.dll
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Persistencia\obj\Debug\net6.0\TicketMetro.App.Persistencia.pdb
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Persistencia\obj\Debug\net6.0\TicketMetro.App.Persistencia.genruntimeconfig.cache
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Persistencia\obj\Debug\net6.0\ref\TicketMetro.App.Persistencia.dll

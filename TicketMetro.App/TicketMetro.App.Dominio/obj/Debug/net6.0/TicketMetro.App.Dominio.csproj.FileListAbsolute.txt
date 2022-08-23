@@ -1,0 +1,12 @@
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Dominio\obj\Debug\net6.0\TicketMetro.App.Dominio.csproj.AssemblyReference.cache
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Dominio\obj\Debug\net6.0\TicketMetro.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Dominio\obj\Debug\net6.0\TicketMetro.App.Dominio.AssemblyInfoInputs.cache
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Dominio\obj\Debug\net6.0\TicketMetro.App.Dominio.AssemblyInfo.cs
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Dominio\obj\Debug\net6.0\TicketMetro.App.Dominio.csproj.CoreCompileInputs.cache
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Dominio\bin\Debug\net6.0\TicketMetro.App.Dominio.deps.json
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Dominio\bin\Debug\net6.0\TicketMetro.App.Dominio.dll
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Dominio\bin\Debug\net6.0\TicketMetro.App.Dominio.pdb
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Dominio\obj\Debug\net6.0\TicketMetro.App.Dominio.dll
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Dominio\obj\Debug\net6.0\refint\TicketMetro.App.Dominio.dll
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Dominio\obj\Debug\net6.0\TicketMetro.App.Dominio.pdb
+D:\C#Asp.net\MetroDeBogota\TicketMetro.App\TicketMetro.App.Dominio\obj\Debug\net6.0\ref\TicketMetro.App.Dominio.dll
